@@ -40,9 +40,8 @@
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40" />
 </p>
 
----
-<!-- Top Languages Card -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdusSamadAli&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdusSamadAli&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="AbdusSamadAli's Top Languages" />
 </p>
 
