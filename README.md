@@ -3,6 +3,13 @@
 
 ---
 
+- 🧠 I love solving real-world problems through code and collaboration.
+- 🏆 Winner of **2 Hackathons** — gained solid experience in **problem-solving** and **teamwork** under pressure.
+- 💻 Completed **2 Software Development Internships** — hands-on experience with scalable applications and real-world tech stacks.
+- 🌐 I enjoy building full-stack web apps and exploring new tools and technologies.
+
+---
+
 ### 🌐 Connect with me
 
 <p align="center">
