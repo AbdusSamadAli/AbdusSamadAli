@@ -50,11 +50,5 @@
 </p>
 
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdusSamadAli&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&card_width=480" 
-    alt="AbdusSamadAli's Top Languages" 
-  />
-</p>
 
 
